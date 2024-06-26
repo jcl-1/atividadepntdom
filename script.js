@@ -120,7 +120,7 @@ div.appendChild(btn)
 
 const footer = document.createElement('footer')
 footer.style.height = `60px`
-footer.style.width = `100%`
+footer.style.width = `110%`
 footer.style.backgroundColor = `rgb(0 0 0)`
 body.appendChild(footer)
 
