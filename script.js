@@ -38,7 +38,7 @@ githubButton.style.padding = `10px`
 header.appendChild(githubButton)
 
 githubButton.addEventListener('click', function() {
-    window.location.href = 'https://github.com/julioc93-front/Atividade-PNT-DOM'
+    window.location.href = 'https://github.com/julioc93-front/atividadepntdom.git'
 })
 
 resetButton.addEventListener('click', function() {
